@@ -1,0 +1,5 @@
+{
+  "name": "IPL Innings Impact Explorer",
+  "description": "A research-oriented visualization tool for analyzing the relationship between batting volume (runs) and match context value (impact) in IPL history.",
+  "requestFramePermissions": []
+}
